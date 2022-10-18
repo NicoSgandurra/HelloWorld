@@ -2,4 +2,6 @@
 
 Metodología de la Investigación - Práctica
 
-Ver 0.1
+Init GitKraken 😳
+
+Ver 0.2 
